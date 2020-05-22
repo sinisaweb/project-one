@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+.App-promo {
+  width: 80%;
+}
+@media (max-width: 1024px) {
+  .App-promo {
+    width: 94%;
+  }
+}
